@@ -1,0 +1,10 @@
+{
+    "name": "aheadai-factory",
+    "dependencies": {
+        "express": "^4.16.4",
+        "node-docker-api": "^1.1.22",
+        "nodegit": "^0.23.0",
+        "path": "^0.12.7",
+        "tar-fs": "^1.16.3"
+    }
+}
