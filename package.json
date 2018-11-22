@@ -1,5 +1,10 @@
 {
     "name": "aheadai-factory",
+      "scripts": {
+    "start": "node main.js",
+    "lint": "eslint .",
+    "posttest": "npm run lint"
+  },
     "dependencies": {
         "body-parser": "^1.18.3",
         "cors": "^2.8.5",
